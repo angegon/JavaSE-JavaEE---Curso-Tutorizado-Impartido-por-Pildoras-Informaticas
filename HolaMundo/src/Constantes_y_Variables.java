@@ -1,12 +1,19 @@
 
-public class DeclaracionVariables {
+public class Constantes_y_Variables {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		
 		// Tipos de datos primitivos
 		// byte float double int long, con casting en tipos primitivos
 		// se pierde precisión
+		
+		//constantes
+		final double TIPOCAMBIO_DOLAR_EURO = 1.2;
+		
+		System.out.println(TIPOCAMBIO_DOLAR_EURO);
+		//constantes
 		
 		byte edad;
 		

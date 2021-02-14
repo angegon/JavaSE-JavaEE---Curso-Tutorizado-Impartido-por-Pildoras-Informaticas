@@ -1,5 +1,5 @@
 
-public class Uso_Math {
+public class Clase_Math {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
