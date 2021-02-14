@@ -10,9 +10,5 @@ public class Clase_Math {
 		// Sobrecargar de métodos, y solución con casting
 		int resultado1 = Math.round(3.4F);
 		int resultado2 = (int) Math.round(3.4);
-		
-		
-
 	}
-
 }

@@ -17,7 +17,5 @@ public class Operadores {
 		
 		num2+=10;
 		System.err.println(num2);
-
 	}
-
 }
