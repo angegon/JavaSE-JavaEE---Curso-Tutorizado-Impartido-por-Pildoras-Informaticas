@@ -3,6 +3,11 @@ public class DeclaracionVariables {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		// Tipos de datos primitivos
+		// byte float double int long, con casting en tipos primitivos
+		// se pierde precisión
+		
 		byte edad;
 		
 		edad = 40 - 1;		
